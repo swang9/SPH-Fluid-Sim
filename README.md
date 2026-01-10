@@ -1,5 +1,7 @@
 # SPH 2D Fluid Simulation
 
+https://github.com/user-attachments/assets/39578cd2-44ee-49c7-a032-425618f7540c
+
 ## Instructions
 
 For MacOS and Linux.
@@ -15,5 +17,6 @@ Install Eigen library with
 Based on your operating system, comment and uncomment the relevant sections in the Makefile.
 
 If on Linux, change `arc4random` in `main.cpp` to `rand`.
+
 
 `make`, then run with `./sph`.
